@@ -1,0 +1,56 @@
+/* Type your code here */
+#scorecard{
+	background-image:url(assets/background-image1.png) ;
+	margin: 20px;
+	text-transform: capitalize;
+}
+.imgg{
+	text-align: right;
+}
+.inn{
+	text-align: left;
+	background-color: red;
+	color: white;
+	font-size: large;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+table{
+	border-collapse: collapse;
+	width: 600px;
+	line-height: 20px;
+	height: 400px;
+	background-color: white;
+	border: 1px solid rgb(183, 175, 175);
+	
+	
+	
+}
+.bat{
+	font-weight: bold;
+
+}
+.name{
+	color: rgb(15, 73, 232);
+}
+td{
+	margin-left: 10px;
+	border-bottom: 1px solid  rgb(183, 175, 175) ;
+}
+.wic{
+	color: grey;
+}
+
+/* change the font family and spacing as per your project font */
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: relative;
+	top: 750px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal;
+    
+}
